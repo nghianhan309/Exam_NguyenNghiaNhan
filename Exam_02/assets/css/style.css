@@ -1,0 +1,4 @@
+.status-trong { color: blue; font-weight: bold; }
+.status-dat { color: red; font-weight: bold; }
+.status-baotri { color: orange; font-weight: bold; }
+.device-img { width: 80px; height: 80px; object-fit: cover; }
